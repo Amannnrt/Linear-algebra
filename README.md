@@ -12,4 +12,4 @@ This repository contains Jupyter Notebooks documenting my journey through **Line
 - **Gilbert Strang - Introduction to Linear Algebra**
 - **Mathematics for Machine Learning Textbook by A. Aldo Faisal, Cheng Soon Ong, and Marc Peter Deisenroth**
 
-- Let me know if you'd like any more changes! 😊
+  Let me know if you'd like any more changes! 😊
